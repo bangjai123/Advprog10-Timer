@@ -1,5 +1,9 @@
 #  Reflection
 
+Nama: Zaidan Naufal Ilmi
+Kelas: Adpro-A
+NPM: 2206081761
+
 <details>
 <summary>Understanding how it works.</summary>
   
